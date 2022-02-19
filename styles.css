@@ -1,0 +1,14 @@
+body {
+  margin: 0px;
+  width: 100%;
+  height: auto;
+  text-align: center;
+  background-color: gainsboro;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.resize {
+    width: 400px;
+    height: auto;
+}
